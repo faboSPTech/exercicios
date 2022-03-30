@@ -1,0 +1,20 @@
+.div1{
+    background-color: rgb(211, 100, 211);
+    height: 250px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.div2{
+    background-color: #ed1895;
+    height: 100px;
+    width: 250px;
+    border: red 20px;
+}
+
+.div3{
+    background-color: greenyellow;
+    height: 88%;
+    width: 30%;
+}

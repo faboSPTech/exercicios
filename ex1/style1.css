@@ -1,0 +1,28 @@
+.div1{
+    background-color: #ced126;
+    height: 500px;
+    width: 500px;
+}
+
+.div2{
+    background-color: #285f10;
+    height: 250px;
+    width: 250px;
+}
+p{
+    color: white;
+    background-color: rgb(146, 66, 135);
+    font-size: 25px;
+    font-family: monospace;
+    font-weight: bold;
+}
+.div3{
+    background-color: rgb(22, 7, 90);
+    width: 50%;
+    height: 50vh;
+}
+.div4{
+   width: 75vw;
+   height: 50%;
+   background-color: rgb(43, 22, 22);
+}
